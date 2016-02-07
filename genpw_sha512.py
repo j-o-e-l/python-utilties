@@ -3,7 +3,7 @@
 """
 #============================================================================
 Filename   : genpw_sha512.py
-Author     : <joel (a t) jacean (d o t) com>
+Author     : Joel Kirch, <joel (a t) jacean (d o t) com>
 Date       : 27 December 2015
 Version    : 0.1
 Copyright  : Copyright © 2015 JACEAN LLC
@@ -15,7 +15,6 @@ Copyright  : Copyright © 2015 JACEAN LLC
  
              Copyright © 2008 Doug Hellmann
              Copyright © 2008-2015 Assurance Technologies, LLC.
-             Copyright © 2001-2015 Python Software Foundation. 
 
 Description: Usage 1: Prompt the user for a password, without echoing what 
                       they type to the console, then SHA-512 hash the input.
@@ -29,7 +28,6 @@ Description: Usage 1: Prompt the user for a password, without echoing what
 Credits    : https://pymotw.com/2/getpass/
              http://www.doughellmann.com/PyMOTW/
              https://bitbucket.org/ecollins/passlib/wiki/Home
-             https://www.python.org/
 
 Warning    : This code does NO 'real' error checking, use at your own risk!
 #============================================================================
